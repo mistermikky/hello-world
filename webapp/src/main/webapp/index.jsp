@@ -3,8 +3,6 @@
 <h3> Glad to see that you a part of this great team</h3>
 <h4> I am working on my Python Skill </h4>
 <h5> I am now a Professional </h5>
-
-
 <html>
 <!-- Text between angle brackets is an HTML tag and is not displayed.
 Most tags, such as the HTML and /HTML tags that surround the contents of
